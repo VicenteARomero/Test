@@ -4,5 +4,6 @@ ipublic class HelloWorld
   {
     System.out.println("HelloWorld");
     int i = 1;
+    int j = 3;
   }
 }
